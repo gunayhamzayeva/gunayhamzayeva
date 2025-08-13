@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Gunay</h1>
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:ff758c&height=200&section=header&text=Hi%20👋,%20I'm%20Gunay&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 

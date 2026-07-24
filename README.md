@@ -6,7 +6,7 @@
 ---
 
 ### 🔥 About Me:
-- 🔭 Currently working on **[My Portfolio](https://github.com/gunayhamzayeva/My-Portfolio.git)**
+- 🔭 Currently working on **[My Portfolio](https://github.com/gunayhamzayeva/FlowDesk.git)**
 - 🌱 Learning **TypeScript**
 - 📫 Reach me at **gunayhamzayava@gmail.com**
 
